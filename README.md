@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-2563C4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ayush-pundhir-96387b2b6/"><img src="https://img.shields.io/badge/LINKEDIN-2563C4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pundhir.ayush9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.ayushpundhir.tech/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 <br/><br/>
