@@ -1,20 +1,71 @@
-<h1 align="center">Hi 👋, I'm Ayush Pundhir</h1>
-<h3 align="center">ML and Backend Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush983215&label=Profile%20views&color=0e75b6&style=flat" alt="ayush983215" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=7CFC5A&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ayush+Pundhir;ML+%26+Backend+Developer;I+build+AI+that+ships%2C+not+just+AI+that+demos" alt="typing intro" />
 
-- 💬 Ask me about **Machine Learning**
+<br/>
 
-- 📫 How to reach me **pundhir.ayush9@gmail.com**
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-2563C4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pundhir.ayush9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush pundhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush pundhir" height="30" width="40" /></a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ayush983215&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
+
+---
+
+## ~/ whoami
+
+```bash
+$ cat about.txt
+
+Hi, I'm Ayush Pundhir, a third-year AI & Data Science student
+based in Bengaluru, IN.
+
+I build ML and agentic systems that have to work outside the
+notebook: real data, real users, real constraints.
+
+  > Built NetraOne          - facial-recognition prototype for police (AI Lead)
+  > Built an AI assistant   - Telegram + n8n + OpenAI + Google Workspace + MongoDB
+  > Built Transactable.AI   - agent commerce gateway (Razorpay Buildathon)
+  > MSME grant recipient · published research · patent filing
+  > Studying @ CMR Institute of Technology · class of 2027
+```
+
+---
+
+## ~/ toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,c,pytorch,tensorflow,sklearn,mongodb,mysql,docker,azure,firebase,react,git,github,linux,bash,vscode&perline=10" alt="toolbox" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush983215&show_icons=true&locale=en&layout=compact" alt="ayush983215" /></p>
+## ~/ skill radar
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush983215&show_icons=true&locale=en" alt="ayush983215" /></p>
+<p align="center">
+  <img src="./skill-radar.svg" width="48%" alt="skill radar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush983215&layout=donut&theme=github_dark&hide_border=true&hide=html" width="48%" alt="top languages" />
+</p>
+
+<sub>Skill radar is a self-assessment. Language mix is computed live from public repo byte counts, so it reflects code volume, not effort.</sub>
+
+---
+
+## ~/ contribution calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush983215&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" alt="stats" />
+</p>
+
+---
+
+<p align="center"><sub><code>Ship it. Then explain it.</code></sub></p>
